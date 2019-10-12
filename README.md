@@ -1,5 +1,7 @@
 # taller-space-invaders
 
+Por: Adrian Osorio Restrepo 000318733
+
 Link build APK:https://drive.google.com/open?id=1Y6mO62qjmrZxM-aj1kxZ9rfcuDgHFEvx
 
 Assets de terceros
